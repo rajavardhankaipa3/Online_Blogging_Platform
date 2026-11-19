@@ -57,3 +57,10 @@ __pycache__/
 *.py[cod]
 venv/
 .venv/
+
+# Database credentials
+blogging-backend/blogging-backend/src/main/resources/application.properties
+
+# Error logs
+startup-error.txt
+*.log
